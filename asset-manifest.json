@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-website/static/css/main.a49bc8a5.css",
+    "main.js": "/React-website/static/js/main.f26b5447.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-website/static/js/787.28cb0dcd.chunk.js",
+    "static/media/vegan.jpg": "/React-website/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/expensive.jpg": "/React-website/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/React-website/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/React-website/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/png": "/React-website/static/media/6486746733740032.bebbcf0ba38201725b06.png",
+    "static/media/margherita.jpg": "/React-website/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/React-website/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "static/media/react-bootstrap.png": "/React-website/static/media/react-bootstrap.efdec1327625a824a51e.png",
+    "index.html": "/React-website/index.html",
+    "main.a49bc8a5.css.map": "/React-website/static/css/main.a49bc8a5.css.map",
+    "main.f26b5447.js.map": "/React-website/static/js/main.f26b5447.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49bc8a5.css",
+    "static/js/main.f26b5447.js"
+  ]
+}
